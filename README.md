@@ -1,2 +1,2 @@
 # typescript-boiler
-A typescript template
+A typescript template.
